@@ -5,6 +5,8 @@ ifstream fin("date.in");
 ofstream fout("date.out");
 int main()
 {
+    // COMENTARIU CEVA
+    
     /**Voi folosi urmatoarele simboluri:
        & pentru ∧
        / pentru ∨
