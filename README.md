@@ -13,6 +13,13 @@ Input is read from `date.in` and results are written to `date.out`.
 
 ## 📁 Project Structure
 
+```
+│
+├── date.in # Input file containing formula candidate
+├── date.out # Output file with validation result
+└── main.cpp # Source code implementation
+```
+
 ## 📝 Program Description
 
 The program validates whether the input string is:  
