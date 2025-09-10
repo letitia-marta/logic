@@ -15,9 +15,9 @@ Input is read from `date.in` and results are written to `date.out`.
 
 ```
 │
-├── date.in # Input file containing formula candidate
-├── date.out # Output file with validation result
-└── main.cpp # Source code implementation
+├── date.in
+├── date.out
+└── formula_propozitionala.cpp
 ```
 
 ## 📝 Program Description
